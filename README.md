@@ -1,9 +1,6 @@
-<!--
-PIXEL/QUEST README TEMPLATE for repo: LOL
-Copy into https://github.com/top-secret666/LOL/blob/master/README.md
--->
 
 <div align="center">
+<img src="https://github.com/user-attachments/assets/0b685d4c-231b-4126-8a3d-06975e64d41b"/>
 
 # LOL // Tournament Arena
 
